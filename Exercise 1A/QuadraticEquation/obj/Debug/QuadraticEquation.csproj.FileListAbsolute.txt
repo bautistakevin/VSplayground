@@ -1,0 +1,7 @@
+C:\Users\bauti\source\repos\RadiusCircumferenceApp\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config
+C:\Users\bauti\source\repos\RadiusCircumferenceApp\QuadraticEquation\bin\Debug\QuadraticEquation.exe
+C:\Users\bauti\source\repos\RadiusCircumferenceApp\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
+C:\Users\bauti\source\repos\RadiusCircumferenceApp\QuadraticEquation\obj\Debug\QuadraticEquation.csprojAssemblyReference.cache
+C:\Users\bauti\source\repos\RadiusCircumferenceApp\QuadraticEquation\obj\Debug\QuadraticEquation.csproj.CoreCompileInputs.cache
+C:\Users\bauti\source\repos\RadiusCircumferenceApp\QuadraticEquation\obj\Debug\QuadraticEquation.exe
+C:\Users\bauti\source\repos\RadiusCircumferenceApp\QuadraticEquation\obj\Debug\QuadraticEquation.pdb

@@ -1,0 +1,7 @@
+C:\Users\bauti\source\repos\RadiusCircumferenceApp\AreaofaTriangle\bin\Debug\AreaofaTriangle.exe.config
+C:\Users\bauti\source\repos\RadiusCircumferenceApp\AreaofaTriangle\bin\Debug\AreaofaTriangle.exe
+C:\Users\bauti\source\repos\RadiusCircumferenceApp\AreaofaTriangle\bin\Debug\AreaofaTriangle.pdb
+C:\Users\bauti\source\repos\RadiusCircumferenceApp\AreaofaTriangle\obj\Debug\AreaofaTriangle.csprojAssemblyReference.cache
+C:\Users\bauti\source\repos\RadiusCircumferenceApp\AreaofaTriangle\obj\Debug\AreaofaTriangle.csproj.CoreCompileInputs.cache
+C:\Users\bauti\source\repos\RadiusCircumferenceApp\AreaofaTriangle\obj\Debug\AreaofaTriangle.exe
+C:\Users\bauti\source\repos\RadiusCircumferenceApp\AreaofaTriangle\obj\Debug\AreaofaTriangle.pdb

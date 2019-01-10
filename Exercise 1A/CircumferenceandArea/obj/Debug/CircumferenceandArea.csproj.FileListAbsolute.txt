@@ -1,0 +1,6 @@
+C:\Users\bauti\source\repos\RadiusCircumferenceApp\CircumferenceandArea\bin\Debug\CircumferenceandArea.exe.config
+C:\Users\bauti\source\repos\RadiusCircumferenceApp\CircumferenceandArea\bin\Debug\CircumferenceandArea.exe
+C:\Users\bauti\source\repos\RadiusCircumferenceApp\CircumferenceandArea\bin\Debug\CircumferenceandArea.pdb
+C:\Users\bauti\source\repos\RadiusCircumferenceApp\CircumferenceandArea\obj\Debug\CircumferenceandArea.csproj.CoreCompileInputs.cache
+C:\Users\bauti\source\repos\RadiusCircumferenceApp\CircumferenceandArea\obj\Debug\CircumferenceandArea.exe
+C:\Users\bauti\source\repos\RadiusCircumferenceApp\CircumferenceandArea\obj\Debug\CircumferenceandArea.pdb
