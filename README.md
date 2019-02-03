@@ -2,4 +2,4 @@
 
 ## repository of Virtual Studio Projects
 
-2/3/2019- added String Reversal project.
+2/3/2019- added String Reversal solution.
