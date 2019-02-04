@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace StringReversal
 {
-    class Program
+    class program
     {
         static void Main(string[] args)
         {
