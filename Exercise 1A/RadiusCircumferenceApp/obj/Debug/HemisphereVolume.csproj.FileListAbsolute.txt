@@ -1,7 +1,0 @@
-C:\Users\bauti\source\repos\RadiusCircumferenceApp\RadiusCircumferenceApp\bin\Debug\RadiusCircumferenceApp.exe.config
-C:\Users\bauti\source\repos\RadiusCircumferenceApp\RadiusCircumferenceApp\bin\Debug\RadiusCircumferenceApp.exe
-C:\Users\bauti\source\repos\RadiusCircumferenceApp\RadiusCircumferenceApp\bin\Debug\RadiusCircumferenceApp.pdb
-C:\Users\bauti\source\repos\RadiusCircumferenceApp\RadiusCircumferenceApp\obj\Debug\HemisphereVolume.csprojAssemblyReference.cache
-C:\Users\bauti\source\repos\RadiusCircumferenceApp\RadiusCircumferenceApp\obj\Debug\HemisphereVolume.csproj.CoreCompileInputs.cache
-C:\Users\bauti\source\repos\RadiusCircumferenceApp\RadiusCircumferenceApp\obj\Debug\RadiusCircumferenceApp.exe
-C:\Users\bauti\source\repos\RadiusCircumferenceApp\RadiusCircumferenceApp\obj\Debug\RadiusCircumferenceApp.pdb
