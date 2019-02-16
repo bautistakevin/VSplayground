@@ -15,3 +15,5 @@ Things I learned:
 ### 2/4/2019 - added GCDandLCM.cs
 
 ### 2/5/2019 - added CharacterCounter.cs
+
+### 2/16/2019 - added InsertionSort.cs
