@@ -13,9 +13,7 @@ Things I learned:
 - using a foreach loop to then apply the reversal method to each individualized strings that were made by the Split function to return an unreversed string.
 
 ### 2/4/2019 - added GCDandLCM.cs
-
 ### 2/5/2019 - added CharacterCounter.cs
-
 ### 2/16/2019 - added InsertionSort.cs
-
 ### 4/2/2019 - added GoogleInterviewQuestion.cs
+### 4/4/2019 - added AmazonInterviewQuestion.cs
